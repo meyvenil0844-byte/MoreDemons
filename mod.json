@@ -9,7 +9,8 @@
 	},
 	"gd": {
 		"win": "2.2074",
-		"mac": "2.2074"
+		"mac": "2.2074",
+		"android": "2.2074"
 	},
 	"id": "mattwhyy.more_demons",
 	"name": "More Demons",
