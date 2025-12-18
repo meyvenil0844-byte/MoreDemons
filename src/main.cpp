@@ -34,7 +34,7 @@ private:
 
         auto request = web::WebRequest();
         m_fields->m_listener.setFilter(
-            request.get("https://api.aredl.net/api/aredl/list")
+            request.get("https://api.aredl.net/v1/levels")
         );
     }
 
